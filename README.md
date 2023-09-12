@@ -7,6 +7,7 @@
 1. Kotlin
 2. Retrofit
 3. Jetpack Compose
+4. Hilt
 
 | Главный экран   |
 | :---: | 
