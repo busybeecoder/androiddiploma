@@ -13,6 +13,11 @@
 | ![image](https://github.com/busybeecoder/androiddiploma/assets/48162523/06ca15c6-8b9f-4a90-bb5d-ef604fe8afb6) |
 
 
+| Гибкий поиск с фильтрацией  |
+| :---: | 
+|![image](https://github.com/busybeecoder/androiddiploma/assets/48162523/448d01a4-a55c-4aef-b509-1819a9763f87) |
+
+
 | Профиль  |
 | :---: | 
 | ![image](https://github.com/busybeecoder/androiddiploma/assets/48162523/4d22ed57-5af4-4ee0-b1e2-d8f767d2c716) |
