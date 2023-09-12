@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">applicationvkr</string>
+    <string name="login">Войти</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_hint">Имя пользователя</string>
+    <string name="dont_have_an_account_yet">Нет аккаунта?</string>
+    <string name="sign_up">Зарегистрируйтесь</string>
+    <string name="email">Адрес электронной почты</string>
+    <string name="register">Регистрация</string>
+    <string name="already_have_an_account">Уже есть аккаунт?</string>
+    <string name="sign_in">Войдите в систему</string>
+    <string name="search">Поиск…</string>
+    <string name="username">Имя пользователя</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="sort_by">Сортировать</string>
+    <string name="filters">Фильтры</string>
+    <string name="sort_by_date">По дате выхода</string>
+    <string name="sort_by_name">По названию</string>
+    <string name="changed_email">Смена почты</string>
+    <string name="changed_password">Смена пароля</string>
+    <string name="changed_email_button">Смена почты</string>
+    <string name="changed_password_button">Смена пароля</string>
+    <string name="do_you_want_to_logout">Вы хотите выйти?</string>
+    <string name="error_field_empty">Это поле не может быть пустым</string>
+    <string name="not_a_valid_email">Введите адрес электронной почты</string>
+    <string name="enter_old_password">Введите предыдущий пароль</string>
+    <string name="enter_new_password">Введите новый пароль</string>
+    <string name="input_too_short">Введите не меньше %d символов</string>
+    <string name="invalid_password">Пароль должен содержать заглавную букву латинского алфавита, символ и число</string>
+    <string name="success_registration">Вы успешно зарегистрировались. Можете входить в систему</string>
+    <string name="success_new_password">Вы успешно сменили пароль. Не забудьте его!</string>
+    <string name="success_changed_email">Вы успешно изменили адрес электронной почты</string>
+    <string name="error_couldnt_reach_server">Нет соединения с сервером. Проверьте свое подключение к Интернету</string>
+    <string name="oops_something_went_wrong">Что-то идет не так. Попробуйте ещё раз</string>
+    <string name="save">Сохранить</string>
+    <string name="register_header">Регистрация</string>
+    <string name="wrong_old_password">Вы ввели неверный текущий пароль. Попробуйте ещё раз</string>
+    <string name="signin_header">Вход</string>
+    <string name="profile">Профиль</string>
+
+
+    <string name="wrong_login">Вы ввели неверный логин или пароль</string>
+    <string name="created_username_error">Пользователь с таким ником уже существует. Попробуйте ещё раз!</string>
+    <string name="created_email_error">Пользователь с таким адресом электронной почты уже существует. Попробуйте ещё раз!</string>
+    <string name="created_user_error">Пользователь с таким именем и адресом электронной почты уже существует. Попробуйте ещё раз!</string>
+    <string name="wrong_email_error">На эту почту уже зарегистрирован другой пользователь</string>
+</resources>
